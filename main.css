@@ -1,0 +1,16 @@
+table{
+           
+    border-collapse: collapse;
+   width: 100%;
+}
+
+td{
+    border: 1px solid black;
+   s
+    padding : 10px;
+    text-align : center;
+}
+.carre{
+    background: black;
+    color: white;
+}
